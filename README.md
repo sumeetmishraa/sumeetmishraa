@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumeetmishraa
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning React js and Node js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sumeetk.mishra25@gmail.com
 
