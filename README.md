@@ -2,7 +2,7 @@
 
 👨‍💻 I’m Sumeet Mishra, Software engineer from India
 
-🙂 I’m currently learning React.js and Node.js
+🙂 I’m currently learning and Node.js and SQL.
 
 📧 Reach me at sumeetk.mishra25@gmail.com
 
