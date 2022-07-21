@@ -4,5 +4,6 @@
 
 🙂 I’m currently a frontend software engineer and learning Node.js and SQL.
 
-📧 Reach me at sumeetk.mishra25@gmail.com
+📧 Reach me at sumeetk.mishra25@gmail.com or www.linkedin.com/in/sumeetskm
+
 
